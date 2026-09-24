@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f7d5a6e8-9102-43b4-8e35-4f5061728394",
+    "clientName": "María González",
+    "clientEmail": "maria.gonzalez@example.com",
+    "date": "2026-10-15",
+    "time": "10:30",
+    "status": "pending",
+    "services": [
+      {
+        "service": "b3f1c2a4-5d6e-4f70-8a91-0b1c2d3e4f50",
+        "quantity": 1
+      }
+    ]
+  }
+]
